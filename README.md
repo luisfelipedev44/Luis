@@ -1,10 +1,9 @@
 # 👩🏻‍💻 Luis Felipe👋
 
-<p>Sou estudante de <strong>Análise de Sistemas</strong> e estou buscando oportunidades na área de programação. Focado em  <strong>Python</strong>, estou desenvolvendo soluções eficientes e práticas. No meu GitHub, você encontra projetos que mostram meu aprendizado e evolução.</p>
+<p>Sou estudante de <strong>Análise de Sistemas</strong> e estou buscando oportunidades na área de programação. Focado em  <strong>JavaScript</strong>, estou desenvolvendo soluções eficientes e práticas. No meu GitHub, você encontra projetos que mostram meu aprendizado e evolução.</p>
 
 ## 🚀 Tecnologias que estou aprendendo:
 <ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" /> <strong>Python</strong></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <strong>JavaScript</strong></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <strong>HTML</strong></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <strong>CSS</strong></li>
@@ -12,7 +11,7 @@
 </ul>
 
 ## 📚 O que estou aprendendo no momento:
-<p>Desenvolvimento Web com <strong>Flask</strong>, <strong>APIs RESTful</strong>, <strong>Cadastro de Usuários</strong> e <strong>Flask com comunicação em tempo real usando PIX</strong>.</p>
+<p>Desenvolvimento Web com <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>TypeScript</strong> e <strong>Projetos usando Tailwind</strong>.</p>
 
 ## 🔗 Conecte-se comigo:
 <head>
