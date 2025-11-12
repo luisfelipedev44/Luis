@@ -25,9 +25,7 @@
   <a href="https://www.linkedin.com/in/luisfelipe01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
   </a>
-  <a href="mailto:lluisfelipe1619@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
-  </a>
+
   <a href="https://github.com/luisfelipedev44?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="portfolio" />
   </a>
