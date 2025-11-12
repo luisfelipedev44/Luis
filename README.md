@@ -1,27 +1,37 @@
-# 👩🏻‍💻 Luis Felipe👋
+# 👨‍💻 Luis Felipe - Desenvolvedor Front End 
 
-<p>Sou estudante de <strong>Análise de Sistemas</strong> e estou buscando oportunidades na área de programação. Focado em  <strong>JavaScript</strong>, estou desenvolvendo soluções eficientes e práticas. No meu GitHub, você encontra projetos que mostram meu aprendizado e evolução.</p>
+<p>Sou estudante de <strong>Análise de Sistemas</strong> com foco em desenvolvimento front-end. Atualmente desenvolvendo interfaces modernas e responsivas usando as tecnologias mais atuais do mercado.</p>
 
-## 🚀 Tecnologias que estou aprendendo:
+## 🚀 Stack Principal:
 <ul>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" /> <strong>ReactJS</strong></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" /> <strong>NodeJS</strong></li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" /> <strong>JavaScript</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <strong>HTML</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <strong>CSS</strong></li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="sql logo" /> <strong>SQL</strong></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo" /> <strong>Tailwind CSS</strong></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" /> <strong>CSS3</strong></li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" /> <strong>HTML5</strong></li>
 </ul>
 
-## 📚 O que estou aprendendo no momento:
-<p>Desenvolvimento Web com <strong>ReactJS</strong>, <strong>NodeJS</strong>, <strong>TypeScript</strong> e <strong>Projetos usando Tailwind</strong>.</p>
+## 🌟 Habilidades em Desenvolvimento:
+- **Interfaces responsivas** e intuitivas
+- **Componentes reutilizáveis** em React
+- **Integração com APIs** REST
+- **Otimização de performance** front-end
+- **Design systems** e consistência visual
 
-## 🔗 Conecte-se comigo:
-<head>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
-</head>
-<a href="https://www.linkedin.com/in/luisfelipe01/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-<a href="mailto:lluisfelipe1619@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
+## 🔗 Conecte-se Comigo:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jiimmypage&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/luisfelipe01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
+  </a>
+  <a href="mailto:lluisfelipe1619@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
+  </a>
+  <a href="https://github.com/luisfelipedev44?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="portfolio" />
+  </a>
+</div>
+
+---
+<p align="center">💡 <em>Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor front-end!</em></p>
